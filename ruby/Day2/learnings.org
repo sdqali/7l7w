@@ -1,0 +1,5 @@
+* Day 2
+** Hash sorting is funny. There are other ways to do stuff.
+** Ruby does not have named params. I never noticed because I used hashes.
+** A symbol always have the same object id and symbols are not garbage collected.
+** Enumerbale#inject and Enumerbale#reduce are the same. And you there is no need to pass an initial value.
