@@ -1,0 +1,6 @@
+This will print a stacktrace, the type of the exception
+being raised and the message that you provided. Depending
+on your users, a stacktrace might be too scary,
+and the actual message might get lost in the noise.
+On the other hand, if you die because of
+an actual error, a stacktrace will give you additional information for debugging.
